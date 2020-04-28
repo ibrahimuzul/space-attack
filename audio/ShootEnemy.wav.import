@@ -7,10 +7,7 @@ path="res://.import/ShootEnemy.wav-54216a9e9ae7179bf6e90154ee33ccbe.sample"
 [deps]
 
 source_file="res://audio/ShootEnemy.wav"
-source_md5="03ac0540b465e6bfaf695e31e372615e"
-
 dest_files=[ "res://.import/ShootEnemy.wav-54216a9e9ae7179bf6e90154ee33ccbe.sample" ]
-dest_md5="76002f757a81a41d7f62b37989bf1613"
 
 [params]
 
